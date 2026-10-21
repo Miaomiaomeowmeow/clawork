@@ -4,7 +4,9 @@
 
 One of three dashboards in my AI workflow: [Clawnveyor](https://github.com/Miaomiaomeowmeow/clawnveyor) (the inspiration pipeline as a warehouse) → **Clawork** (skills × projects) → [Clawdfield](https://github.com/Miaomiaomeowmeow/clawdfield) (project status workbench).
 
-**Live:** https://miaomiaomeowmeow.github.io/clawork/ (snapshot of my own setup, Chinese / English toggle on the page)
+**Live:** https://miaomiaomeowmeow.github.io/clawork/ (a snapshot of my own setup: my skills, my projects, which project uses which; a reusable version is planned)
+
+> **The author is looking for a job!** If you have an opportunity, reach out on [LinkedIn](https://www.linkedin.com/in/miaomiao-yang-331901383) · Xiaohongshu (RedNote) @羊猫猫不是猫
 
 ![Clawork](preview.png)
 
